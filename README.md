@@ -35,5 +35,5 @@ The details purpose of this lesson was to:
 5. Code a single iteration of a training pass on the network
 6. Determine optimal hyperparameters.
 
-The entire network is coded in numpy arrays without the use of any packages such as pytorch or tensors. Thus the operation of the network is can be followed without needing to know any additional packages. 
+The entire network is coded in numpy arrays without the use of any packages such as pytorch or tensors. Thus the operation of the network can be followed without needing to know any additional packages. 
 
